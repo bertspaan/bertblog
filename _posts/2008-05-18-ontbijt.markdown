@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ontbijt
+photo: ontbijt.jpg
+lat: 47.173674
+lon: -91.411982
+date: 2008-05-18T19:21:00+00:00
+exif_exposure: 1/400 sec.
+exif_aperture: f/10.0
+exif_iso: 200
+exif_date: 2008-04-16T09:21:45+00:00
+---
+
+## Ontbijt
+
+<p>Bij het hutje hoorde ook een mooi rotsstrand. ’s Avonds konden we een mooi vuur stoken aan het meer, en de volgende ochtend aten we er ons Walmartontbijt. De pulpverhouding in de sinaasappelsap was precies goed: niet teveel, niet te weinig.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">KoeN</span>
+    <span class="date">11-02-2009 17:04</span>
+    <p>Genieten of niet?</p>
+  </li>
+</ol>

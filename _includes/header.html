@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>bertblog » {{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1">
+    <link href="{{ site.url }}/icon.png" rel="shortcut icon" type="image/png">
+    <link rel="stylesheet" href="{{ site.url }}/style.css">
+  </head>
+  <body>	
+    <header>
+      <a rel="start" href="{{ site.url }}/"><img alt="bertblog" src="{{ site.url }}/bertblog.gif"></a>
+      
+      <nav>
+        {% if page.previous.url %} 
+          <a href="{{ page.previous.url }}">&laquo; previous</a>
+        {% endif %} 
+        {% if page.previous.url and page.next.url %} | {% endif %} 
+        {% if page.next.url %} 
+          <a href="{{ page.next.url }}" >next &raquo; </a> 
+        {% endif %} 
+      </nav>      
+  	</header>

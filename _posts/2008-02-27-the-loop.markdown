@@ -1,0 +1,17 @@
+---
+layout: post
+title: The Loop
+photo: the-loop.jpg
+lat: 41.884478
+lon: -87.629679
+date: 2008-02-27T01:24:00+00:00
+exif_exposure: 1/20 sec.
+exif_aperture: f/3.5
+exif_iso: 200
+exif_date: 2008-02-23T00:08:57+00:00
+---
+
+## The Loop
+
+<p>The Loop, het centrum van Chicago (het heet zo omdat alle metrolijnen er in een boogje omheen cirkelen) is na zessen compleet uitgestorven. Geen auto’s en mensen meer op straat, en alle winkels en eettentjes zijn dicht.</p>
+

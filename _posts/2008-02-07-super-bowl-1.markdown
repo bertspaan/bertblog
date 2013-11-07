@@ -1,0 +1,17 @@
+---
+layout: post
+title: Super Bowl (1)
+photo: super-bowl-1.jpg
+lat: 43.077147
+lon: -89.390006
+date: 2008-02-07T07:33:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/3.5
+exif_iso: 220
+exif_date: 2008-02-03T17:30:14+00:00
+---
+
+## Super Bowl (1)
+
+<p>Afgelopen zondag: de Super Bowl, de belangrijkste sportwedstrijd in de Verenigde Staten, de finale van de landelijke American Football-competitie. Van de sport snap ik weinig, het maakte me niet uit welk team won en de wedstrijd wordt om de haverklap onderbroken voor reclames voor milieuvriendelijke SUV’s. We keken de wedstrijd in het huis van Peter, een uitwisselingsdeen, samen met een hoop Amerikanen en andere uitwisselingsstudenten. Naast de televisie op de foto was er ook een beamer en een televisie zonder ruis!</p>
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Home
+photo: ik-ben-er.jpg
+---
+<h2>bertblog</h2>
+<p>
+  Reïncarnatie van 't blog dat ik bijhield tijdens m'n verblijf in 2008 in Madison, Wisconsin.
+</p>
+<ul class="columns">
+  {% for post in site.posts reversed %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

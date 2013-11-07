@@ -1,0 +1,17 @@
+---
+layout: post
+title: Rails
+photo: rails.jpg
+lat: 44.003971
+lon: -91.442919
+date: 2008-05-18T19:09:00+00:00
+exif_exposure: 1/400 sec.
+exif_aperture: f/10.0
+exif_iso: 200
+exif_date: 2008-04-14T13:55:27+00:00
+---
+
+## Rails
+
+<p>Vanaf Madison zijn we eerst langs de Wisconsinrivier naar Prairie du Chien gereden, daarna langs de Mississippi naar Minneapolis/St. Paul. Dit is ergens halverwege.</p>
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Hillary!
+photo: hillary.jpg
+lat: 43.071626
+lon: -89.380398
+date: 2008-02-27T00:52:00+00:00
+exif_exposure: 1/20 sec.
+exif_aperture: f/5.6
+exif_iso: 200
+exif_date: 2008-02-18T20:57:12+00:00
+---
+
+## Hillary!
+
+<p>Na Obama kon Hillary Clinton natuurlijk ook niet achterblijven. Man en dochter hadden de stad al bezocht, vorige week maandag was het Hillary’s beurt om Madison te bezoeken en te overtuigen voor haar te stemmen bij de voorverkiezingen die de dag na haar bezoek in Wisconsin werden gehouden. Obama wist een heel stadium met 20.000 mensen te vullen, Clinton durfde dit waarschijnlijk niet aan en hield haar praatje in een ietwat kleinere zaal. Ze deelde Hillary-bordjes, Cola en chips uit, maar het mocht allemaal niet baten: Obama won met gemak de voorverkiezingen.</p>
+

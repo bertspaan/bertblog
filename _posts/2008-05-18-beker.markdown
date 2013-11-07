@@ -1,0 +1,17 @@
+---
+layout: post
+title: Beker!
+photo: beker.jpg
+lat: 43.059849
+lon: -89.410052
+date: 2008-05-18T17:37:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/4.2
+exif_iso: 320
+exif_date: 2008-03-29T15:23:05+00:00
+---
+
+## Beker!
+
+<p>Omdat Pieter jarig was, moest ik natuurlijk een leuk cadeautje hebben. Op de achtergrond Heidi, een klasgenootje.</p>
+

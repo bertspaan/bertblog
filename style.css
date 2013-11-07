@@ -1,0 +1,104 @@
+/*html {
+  margin: 0;
+  padding: 0; 
+}
+*/
+body {
+	margin: 30px;
+  padding: 0; 
+  
+  background: none repeat scroll 0 0 black;
+  color: white;
+  font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+  font-size: 10pt;
+  letter-spacing: 0.05em; 
+}
+
+header, article, footer {
+  display: block;
+  margin: 0 auto;
+  width: 900px;
+  padding: 20px;
+}
+
+header {
+  border-radius: 10px 10px 0 0;
+}
+
+footer {
+  border-radius: 0 0 10px 10px;
+}
+
+nav {
+  float: right;
+}
+
+a, a:hover, a:visited {
+  color: white;
+}
+
+header {
+  background: url("grid2.png") repeat scroll 0 0 #252525;
+  display: block;
+  height: 40px;
+}
+
+.columns {
+  -moz-column-count: 2; /* Firefox */
+  -webkit-column-count: 2; /* Safari and Chrome */
+  column-count: 2;
+}
+
+article {
+  background: url("grid3.png") repeat scroll 0 0 #404040;
+}
+
+#photo {
+  margin-top: 20px;
+}
+
+#coordinates {
+  float: right;
+}
+
+#content {
+  padding: 0 46px;
+}
+
+article img {
+  border: 2px solid #FFFFFF;
+  margin: 0 auto;
+  display: block
+}
+
+h2, h3 {
+  margin: 30px 0 0;
+  border-bottom: 1px solid #FFFFFF;
+  font-family: 'Trebuchet MS','Lucida Grande',Verdana,Arial,Sans-Serif;
+  font-weight: bold;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+h3, #comments {
+  opacity: 0.8;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+#comments .name {
+  font-weight: bold;
+}
+
+#comments .name:after {
+  content: " - ";
+}
+
+footer {
+  background: url("grid2.png") repeat scroll 0 0 #252525;
+  border: medium none;
+  height: 1px;
+  position: relative;
+}

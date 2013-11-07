@@ -1,0 +1,31 @@
+---
+layout: post
+title: Ik ben er!
+photo: ik-ben-er.jpg
+lat: 43.074827
+lon: -89.393709
+date: 2008-01-21T21:58:00+00:00
+exif_exposure: 1/320 sec.
+exif_aperture: f/9.0
+exif_iso: 200
+exif_date: 2008-01-19T10:00:27+00:00
+---
+
+## Ik ben er!
+
+<p>Ik ben er! En, ik heb het weekend overleefd, met temperaturen overdag van ongeveer -25 °C. Nu is het warm buiten (-11 °C) en sneeuwt het. State Street, de belangrijkste winkelstraat van Madison, is op de foto nog erg rustig. Na de wintervakantie komen de meeste studenten hier pas op het allerlaatste moment terug naar de universiteit, die morgen weer opengaat.</p>
+<p>Ik heb nog niet zoveel van de stad kunnen zien: donderdag en vrijdag was er voor alle uitwisselingsstudenten een volledig gevuld introductieprogramma georganiseerd. Na een hoop praatjes, een avond bowlen en een middag schaatsen kan ik nu geen Chinees meer zien…</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Mariola</span>
+    <span class="date">21-01-2008 23:51</span>
+    <p>VETTT!!!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">22-01-2008 15:51</span>
+    <p>bokka Heb je al sneeuwpoppen gebouwT</p>
+  </li>
+</ol>

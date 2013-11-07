@@ -1,0 +1,26 @@
+---
+layout: post
+title: Wyoming
+photo: wyoming.jpg
+lat: 41.631231
+lon: -106.285769
+date: 2008-04-10T17:29:00+00:00
+exif_exposure: 1/250 sec.
+exif_aperture: f/8.0
+exif_iso: 200
+exif_date: 2008-03-15T07:26:12+00:00
+---
+
+## Wyoming
+
+<p>Zoals altijd met lange busreizen werd de rit om de haverklap onderbroken voor rustpauzes en chauffeurswissels. Een paar keer stopten we ’s avonds en midden in de nacht op de meest troosteloze plekken in Iowa en Nebraska. Altijd een McDonald’s, Wendy’s, KFC, Taco Bell en benzinepomp langs de snelweg op een industrieterrein aan de rand van een stad.</p>
+<p>Maar niet in Wyoming! Kijk toch eens wat een prachtig uitzicht we daar hadden! Verder is Wyoming overigens leeg, enorm leeg; ik had nog nooit zoveel leegte gezien. Tot aan de horizon prairie met hier en daar jaknikkers. Dorpen in Wyoming bestaan voor het grootste gedeelte uit afgetrapte woonwagens, en iedereen (IEDEREEN!!!!!!!!!!!!) heeft een pick-up truck.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Ynskje</span>
+    <span class="date">22-04-2008 13:00</span>
+    <p>Prachtige foto, zoiets zag ik wel eens op een film, het einde bijv. Y.</p>
+  </li>
+</ol>

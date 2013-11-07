@@ -1,0 +1,35 @@
+---
+layout: post
+title: Nee! Fout!
+photo: nee-fout.jpg
+lat: 
+lon: 
+date: 2008-02-07T07:39:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/3.5
+exif_iso: 560
+exif_date: 2008-02-06T17:15:25+00:00
+---
+
+## Nee! Fout!
+
+<p>Amerikanen snappen niet eens dat het veel slimmer is om pas vanaf de eerste etage verdiepingen te gaan tellen. Ik raak constant in de war!</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Wimtie</span>
+    <span class="date">07-02-2008 18:14</span>
+    <p>They fail it.</p>
+  </li>
+  <li>
+    <span class="name">Ivo</span>
+    <span class="date">08-02-2008 18:27</span>
+    <p>Lekker nerd vanaf 0 tellen!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">18-02-2008 14:08</span>
+    <p>Sukkels! Bokka!</p>
+  </li>
+</ol>

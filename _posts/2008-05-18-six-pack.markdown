@@ -1,0 +1,17 @@
+---
+layout: post
+title: Six-pack
+photo: six-pack.jpg
+lat: 43.802846
+lon: -91.253405
+date: 2008-05-18T19:06:00+00:00
+exif_exposure: 1/50 sec.
+exif_aperture: f/22.0
+exif_iso: 200
+exif_date: 2008-04-14T13:07:38+00:00
+---
+
+## Six-pack
+
+<p>In La Crosse, Wisconsin, bij het <a href="http://www.worldslargestthings.com/wisconsin/sixpack.htm">allergrooste</a> six-pack OOIT TER WERELD!</p>
+

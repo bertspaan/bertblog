@@ -1,0 +1,43 @@
+---
+layout: post
+title: Joep
+photo: joep.jpg
+lat: 
+lon: 
+date: 2008-01-30T20:30:00+00:00
+exif_exposure: 1/125 sec.
+exif_aperture: f/5.6
+exif_iso: 200
+exif_date: 2008-01-26T10:32:49+00:00
+---
+
+## Joep
+
+<p>Joep, een vriend van Steven die tijdelijk in New York woont (met mooi uitzicht over Central Park!) nam ons de tweede dag mee uit fietsen. Vanaf ons hostel bij Columbus Circle zijn we dwars door Manhattan, over de Brooklyn Bridge, naar Coney Island gefietst.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">dutch treat</span>
+    <span class="date">31-01-2008 01:16</span>
+    <p>HadieBert!
+Leuk hoor, die foto’s van New York, maar ik wil nou wel eens een foto van JOU in New York zien! Of kunnen die gasten met wie je was niet fotograferen? Je hebt dus Chinatown (wat jij de Kanaalstraat noemt) gevonden. Well, it isn’t that hard to mis…
+Dus plaats ff een paar foto’s van jezelf, waarvan 1 natuurlijk met je (veel te grote) maar wel ontzettend geweldige ‘Dutch treat’ tee. Enjoy!</p>
+  </li>
+  <li>
+    <span class="name">Bert</span>
+    <span class="date">31-01-2008 10:25</span>
+    <p>Een foto van MIJ? Steven heeft die, ik heb geen foto’s van mezelf… (Steven, GEEF ZE!)
+Foto’s van mij in m’n Dutch Treat-shirt volgen! Krijg ik nog een kleinere versie?</p>
+  </li>
+  <li>
+    <span class="name">dutch treat</span>
+    <span class="date">31-01-2008 23:55</span>
+    <p>Ja Bert, een foto van JOU! Dus Steven: GEEF ‘M! Ben namelijk erg benieuwd wat the American way of life met je gedaan heeft… Dat kan heel snel gaan! En wat die kleinere versie betreft: dan moet je eerst maar even laten zien dat deze versie ECHT te groot is. Zo ja, dan beloof ik je een kleinere, die ik dan natuurlijk wel persoonlijk kom afleveren. Or you’ll grow into it, vanwege the American way of life… Lijkt me geen goed plan, by the way. So, show me the tee!</p>
+  </li>
+  <li>
+    <span class="name">Steven</span>
+    <span class="date">10-02-2008 13:32</span>
+    <p>ik mail het!</p>
+  </li>
+</ol>

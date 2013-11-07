@@ -1,0 +1,57 @@
+---
+layout: post
+title: Walmart
+photo: walmart.jpg
+lat: 43.051826
+lon: -89.506213
+date: 2008-01-23T16:04:00+00:00
+exif_exposure: 1/160 sec.
+exif_aperture: f/6.3
+exif_iso: 200
+exif_date: 2008-01-19T14:59:24+00:00
+---
+
+## Walmart
+
+<p>Tijdens mijn bezoek aan de West Towne Mall, zaterdag, heb ik geprobeerd boodschappen te doen in de Walmart. Dat kan eigenlijk niet, want de Walmart is nogal een vervelende winkel. Ze hebben er alleen lelijke kleren en cornflakes. Zelfs wapens kon ik niet vinden…</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Wim</span>
+    <span class="date">23-01-2008 16:11</span>
+    <p>Suiker en vet!</p>
+  </li>
+  <li>
+    <span class="name">Mariola</span>
+    <span class="date">24-01-2008 23:35</span>
+    <p>Zijn wapens/kogels bij Wal*Mart niet uit de handel genomen na interventie van Michael Moore…?
+Vette foto’s Bert</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">25-01-2008 14:24</span>
+    <p>Probeer het anders hier!
+http://www.usfirearms.com/</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">25-01-2008 14:25</span>
+    <p>Bokka!</p>
+  </li>
+  <li>
+    <span class="name">Wim</span>
+    <span class="date">27-01-2008 18:39</span>
+    <p>Ik wil in de Walmart wonen net als in die ene fillim…</p>
+  </li>
+  <li>
+    <span class="name"></span>
+    <span class="date">31-01-2008 23:13</span>
+    <p>prima met the AMERICAN FLAG</p>
+  </li>
+  <li>
+    <span class="name">Ivo</span>
+    <span class="date">05-02-2008 17:44</span>
+    <p>Verkopen ze ook bolognese chips?</p>
+  </li>
+</ol>

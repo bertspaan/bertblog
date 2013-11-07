@@ -1,0 +1,39 @@
+---
+layout: post
+title: Beer Pong
+photo: beer-pong.jpg
+lat: 43.478178
+lon: -110.762925
+date: 2008-04-10T22:19:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/3.5
+exif_iso: 220
+exif_date: 2008-03-17T20:30:38+00:00
+---
+
+## Beer Pong
+
+<p>Het saaiste feest waar ik ooit geweest ben. Ter ere van St. Patrick’s Day organiseerde de snowboardclub, in de kelder van ons Geweienmotel, een feestje. Warm bier, TL-verlichting en muziek uit computerluidsprekertjes, en dat alles van 8 tot 11. Om ons extra te vermaken waren overal beer pong-tafels geinstalleerd. Beer pong is een nogal dom spel, dat op elk feestje in heel Amerika met veel graagte gespeeld wordt. Voor de nieuwsgierigen besteedt Wikipedia er een <a href="http://en.wikipedia.org/wiki/Beer_pong">heel artikel aan</a>. Good times!</p>
+<p>In het midden en in het gebroken wit schittert Peter, de Deense sterspeler.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Mariola</span>
+    <span class="date">11-04-2008 11:46</span>
+    <p>Interessant artikel
+Maar die sterspeler van jou speelt wel mooi vals! (links van zijn krakend witte gympen)
+En wat een laffe laagjes bier voor een drankspel…..</p>
+  </li>
+  <li>
+    <span class="name">Bert</span>
+    <span class="date">11-04-2008 17:38</span>
+    <p>En meestal is het nog light-bier ook… Toch weten die Amerikanen zich binnen de kortste tijd helemaal vol te gieten en laveloos te zuipen.</p>
+  </li>
+  <li>
+    <span class="name">janneke</span>
+    <span class="date">16-04-2008 17:25</span>
+    <p>klinkt inderdaad als een zeer boeiend spel;)
+die wikipedia site is eng!</p>
+  </li>
+</ol>

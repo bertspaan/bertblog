@@ -1,0 +1,17 @@
+---
+layout: post
+title: Coyote
+photo: coyote.jpg
+lat: 43.513124
+lon: -110.74078
+date: 2008-04-10T22:36:00+00:00
+exif_exposure: 1/500 sec.
+exif_aperture: f/11.0
+exif_iso: 200
+exif_date: 2008-03-20T13:27:28+00:00
+---
+
+## Coyote
+
+<p>Naast wapiti (ik heb het Nederlandse woord voor <em>elk</em> toch maar even opgezocht) liepen er ook coyotes in het gebied rond. Deze beesten wachten net zo lang tot er een wapiti dood neervalt, jagen doen ze niet; ze sukkelen de hele dag een beetje om de kudde heen.</p>
+

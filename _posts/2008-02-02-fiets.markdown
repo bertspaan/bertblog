@@ -1,0 +1,52 @@
+---
+layout: post
+title: Fiets
+photo: fiets.jpg
+lat: 43.089705
+lon: -89.4158
+date: 2008-02-02T18:11:00+00:00
+exif_exposure: 1/80 sec.
+exif_aperture: f/4.5
+exif_iso: 200
+exif_date: 2008-02-01T16:32:21+00:00
+---
+
+## Fiets
+
+<p>Mijn allerprachtigste fiets, een echte Raleigh Sports uit 1969, die alleen helaas een beetje klein is…</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Ivo</span>
+    <span class="date">02-02-2008 18:39</span>
+    <p>Dat is een minte stalen ros. Nu nog een slot!</p>
+  </li>
+  <li>
+    <span class="name">janneke</span>
+    <span class="date">04-02-2008 19:16</span>
+    <p>ik ontdek je blog nu pas, maar schitterende foto´s hoor!
+heb je al barre fietstochten gemaakt?
+x</p>
+  </li>
+  <li>
+    <span class="name">Wimtie</span>
+    <span class="date">06-02-2008 22:15</span>
+    <p>Neem m mee naar Nederland!</p>
+  </li>
+  <li>
+    <span class="name">zeepoog</span>
+    <span class="date">09-02-2008 01:06</span>
+    <p>Jaaa een fiets voor naar Milaan!</p>
+  </li>
+  <li>
+    <span class="name">Steve</span>
+    <span class="date">10-02-2008 13:19</span>
+    <p>jeej een fiets voor naar Bern!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">18-02-2008 14:06</span>
+    <p>Fietsie! Bokka!</p>
+  </li>
+</ol>

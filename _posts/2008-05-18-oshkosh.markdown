@@ -1,0 +1,17 @@
+---
+layout: post
+title: Oshkosh
+photo: oshkosh.jpg
+lat: 44.040773
+lon: -88.52925
+date: 2008-05-18T19:57:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/4.5
+exif_iso: 560
+exif_date: 2008-04-17T23:22:46+00:00
+---
+
+## Oshkosh
+
+<p>Ben Folds trad op in Oshkosh, een uur ten noorden van Madison. Op de foto het centrum, om elf uur ’s nachts.</p>
+

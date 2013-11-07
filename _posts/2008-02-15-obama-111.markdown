@@ -1,0 +1,69 @@
+---
+layout: post
+title: OBAMA!!!!!!!!!!111
+photo: obama-111.jpg
+lat: 43.069397
+lon: -89.396988
+date: 2008-02-15T18:53:00+00:00
+exif_exposure: 1/60 sec.
+exif_aperture: f/5.6
+exif_iso: 200
+exif_date: 2008-02-12T20:44:52+00:00
+---
+
+## OBAMA!!!!!!!!!!111
+
+<p>En daar is hij dan, ons wachten werd beloond!</p>
+<p>Obama had natuurlijk veel interessants te melden, het meisje naast hem was veel leuker om naar te kijken. Ze probeerde constant, terwijl ze zichzelf op het videoscherm zag, grote kauwgumbubbels te blazen.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Ynskje</span>
+    <span class="date">15-02-2008 19:33</span>
+    <p>een wave voor/met Obama! dat zou ik ook wel willen, is het moeilijk, waven? Ik ga oefenen,
+wanneer houdt die sneeuw op, en die vorst ? hier is het al voorjaar.</p>
+  </li>
+  <li>
+    <span class="name">Bert</span>
+    <span class="date">15-02-2008 20:07</span>
+    <p>Waven is niet zo moeilijk, maar in je eentje waven lijkt me wel erg lastig. Er bestaan trouwens verschillende waves: we deden een slow-motionwave, een normale, en een versnelde.
+Sneeuw en vorst blijven nog wel een maandje… Ik wil ook voorjaar!</p>
+  </li>
+  <li>
+    <span class="name">Steve</span>
+    <span class="date">16-02-2008 22:39</span>
+    <p>Waar blijven de t-shirts!</p>
+  </li>
+  <li>
+    <span class="name">Bert</span>
+    <span class="date">17-02-2008 19:07</span>
+    <p>Vanmiddag komt Hillary. Wil iemand een Hillary-shirt?</p>
+  </li>
+  <li>
+    <span class="name">janneke</span>
+    <span class="date">18-02-2008 13:11</span>
+    <p>ik vind je een bikkel met -25!
+en aah bestaan er hillary shirts?!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">18-02-2008 14:14</span>
+    <p>Bokka!</p>
+  </li>
+  <li>
+    <span class="name">Wimtie</span>
+    <span class="date">19-02-2008 19:37</span>
+    <p>NEGER!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">23-02-2008 17:46</span>
+    <p>Bokka ik heb drie en een half duizend euro’s over de balk gesmeten! BOKKA!</p>
+  </li>
+  <li>
+    <span class="name"></span>
+    <span class="date">25-02-2008 13:06</span>
+    <p>MOAR?</p>
+  </li>
+</ol>

@@ -1,0 +1,30 @@
+---
+layout: post
+title: Huis
+photo: huis.jpg
+lat: 43.072328
+lon: -89.395781
+date: 2008-01-23T16:00:00+00:00
+exif_exposure: 1/125 sec.
+exif_aperture: f/10.0
+exif_iso: 200
+exif_date: 2008-01-19T09:56:14+00:00
+---
+
+## Huis
+
+<p>Ik woon in The Saxony Apartments. Van buiten ziet het er niet erg aantrekkelijk uit, maar mijn kamer is best aardig. Ik deel een keuken en badkamer met twee uitwisselingsstudenten: een Nederlander en een Fransman. Achteraf had ik misschien liever een kamer gezocht in een mooi oud houten huis met Amerikaanse studenten, maar voor dat soort huizen moet je vaak huur betalen tot en met eind augustus, ook al blijf je korter.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Marieke</span>
+    <span class="date">24-01-2008 14:22</span>
+    <p>Hier ga ik logeren</p>
+  </li>
+  <li>
+    <span class="name">KoeN</span>
+    <span class="date">05-12-2008 19:58</span>
+    <p>Genieten of niet?</p>
+  </li>
+</ol>

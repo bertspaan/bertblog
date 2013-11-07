@@ -1,0 +1,17 @@
+---
+layout: post
+title: Grot
+photo: grot.jpg
+lat: 43.018795
+lon: -89.815162
+date: 2008-05-18T17:58:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/5.3
+exif_iso: 1400
+exif_date: 2008-03-30T15:16:25+00:00
+---
+
+## Grot
+
+<p>Na de brouwerij bezochten we ook nog een <a href="http://caveofthemounds.com/">grot</a>.</p>
+

@@ -1,0 +1,17 @@
+      <footer>      
+      </footer>
+  </body>
+  <script type="text/javascript">
+  
+    document.onkeyup = function(e) {
+      var key = ( window.event ) ? event.keyCode : e.keyCode;     
+      if(key == 37) {
+        // ←
+        window.location.href = '{{ page.previous.url }}';
+      } else if (key == 39) {
+        // →
+        window.location.href = '{{ page.next.url }}';
+      }
+    }
+  </script>
+</html>

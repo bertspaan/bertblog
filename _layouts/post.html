@@ -1,0 +1,25 @@
+{% include header.html %}
+<article>
+  <div id="content">
+    <div id="photo">
+      <img src="{{ site.url }}/photos/{{ page.photo }}" />
+      <div id="coordinates">
+      {% if page.exif_date %}
+        {{ page.exif_date | date: "%d-%m-%Y %H:%M" }}
+      {% endif %}
+      {% if page.exif_date and page.lat and page.lon %}
+      -
+      {% endif %}
+      {% if page.lat and page.lon %}
+        <a href="http://bertspaan.nl/latlong/#map=14/{{ page.lat }}/{{ page.lon }}">
+        {{ page.lat }}, {{ page.lon }}
+        </a>
+      {% endif %}
+      </div>
+    </div>
+  
+
+    {{content}}
+  </div>
+</article>
+{% include footer.html %}

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Arend
+photo: arend.jpg
+lat: 43.519539
+lon: -110.739608
+date: 2008-04-10T22:39:00+00:00
+exif_exposure: 1/500 sec.
+exif_aperture: f/11.0
+exif_iso: 200
+exif_date: 2008-03-20T14:00:12+00:00
+---
+
+## Arend
+
+<p>Nog een beest, dit keer een Amerikaanse zeearend. Beren en elanden schijnen er ook te leven, maar die hebben we helaas niet gezien.</p>
+

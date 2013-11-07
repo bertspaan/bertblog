@@ -1,0 +1,30 @@
+---
+layout: post
+title: Elk Man!
+photo: elk-man.jpg
+lat: 
+lon: 
+date: 2008-04-11T18:07:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/5.6
+exif_iso: 400
+exif_date: 2008-03-20T18:25:29+00:00
+---
+
+## Elk Man!
+
+<p>De laatste avond weer een feestje in de kelder van het motel, ook met een thema: superhelden. Helemaal geïnspireerd door het bezoek aan het <em>Elk</em>-park moest ik natuurlijk <strong>Elk Man</strong> worden. Elk Man is een belangrijke superheld omdat hij kinderen, dieren en steden redt. Het feestje beviel, en achteraf speelde er een leuke reggaeband in Jacksons leukste café. Oh ja, en ik had m’n bed alleen, omdat m’n Amerikaanse vriend in de politiecel sliep!</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">23-04-2008 21:21</span>
+    <p>Bokkie! Je bent de Hentenman!</p>
+  </li>
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">23-04-2008 21:21</span>
+    <p>dat is natuurlijk heRtenman, Bokka!</p>
+  </li>
+</ol>

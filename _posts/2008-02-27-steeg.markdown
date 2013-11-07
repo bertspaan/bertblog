@@ -1,0 +1,17 @@
+---
+layout: post
+title: Steeg
+photo: steeg.jpg
+lat: 
+lon: 
+date: 2008-02-27T01:21:00+00:00
+exif_exposure: 1/15 sec.
+exif_aperture: f/3.5
+exif_iso: 280
+exif_date: 2008-02-22T19:19:57+00:00
+---
+
+## Steeg
+
+<p>Overal in Chicago vind je smalle stegen zoals deze, waar ik ’s nachts niet zo graag doorheen zou lopen.</p>
+

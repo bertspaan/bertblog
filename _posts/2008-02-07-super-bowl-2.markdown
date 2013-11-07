@@ -1,0 +1,17 @@
+---
+layout: post
+title: Super Bowl (2)
+photo: super-bowl-2.jpg
+lat: 43.077147
+lon: -89.390006
+date: 2008-02-07T07:34:00+00:00
+exif_exposure: 1/8 sec.
+exif_aperture: f/3.5
+exif_iso: 1600
+exif_date: 2008-02-03T18:39:27+00:00
+---
+
+## Super Bowl (2)
+
+<p>Hier een stelletje uitwisselingsstudenten, gegrepen door de spannende wedstrijd.</p>
+

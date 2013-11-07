@@ -1,0 +1,40 @@
+---
+layout: post
+title: The Bean
+photo: the-bean.jpg
+lat: 41.882651
+lon: -87.623394
+date: 2008-02-27T01:39:00+00:00
+exif_exposure: 1/250 sec.
+exif_aperture: f/8.0
+exif_iso: 200
+exif_date: 2008-02-24T15:06:38+00:00
+---
+
+## The Bean
+
+<p>De enige plek in Chicago waar ik andere toeristen heb gezien: <a href="http://en.wikipedia.org/wiki/The_Bean">De Boon</a>.</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">Woutros</span>
+    <span class="date">27-02-2008 09:52</span>
+    <p>cool!</p>
+  </li>
+  <li>
+    <span class="name">janneke</span>
+    <span class="date">02-03-2008 13:37</span>
+    <p>die foto wil ik ook maken!</p>
+  </li>
+  <li>
+    <span class="name">Bert</span>
+    <span class="date">02-03-2008 19:19</span>
+    <p>Dat kan heel goed! Boek een retourtje Chicago en we regelen het!</p>
+  </li>
+  <li>
+    <span class="name">Wimtie</span>
+    <span class="date">02-03-2008 19:43</span>
+    <p>Dat ziet er vet rarrr uit met die relfeskies enzo.</p>
+  </li>
+</ol>

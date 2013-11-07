@@ -1,0 +1,26 @@
+---
+layout: post
+title: Bert’s!
+photo: berts.jpg
+lat: 43.056084
+lon: -87.887428
+date: 2008-03-30T23:48:00+00:00
+exif_exposure: 1/20 sec.
+exif_aperture: f/8.0
+exif_iso: 200
+exif_date: 2008-03-01T19:21:43+00:00
+---
+
+## Bert’s!
+
+<p>Ik ben ook in Milwaukee!</p>
+
+<h3>Comments</h3>
+<ol id="comments">
+  <li>
+    <span class="name">dutch treat</span>
+    <span class="date">03-04-2008 00:29</span>
+    <p>HadieBert!
+Je bent weer actief! Op je blog tenminste… Dit is natuurlijk gelijk mijn favoriete pic, want al ben ik dan niet in de States, ik ben ben er toch! Heb ff nog niet begrepen hoe  &amp; waarom je nou in Milwaukee terecht bent gekomen, maar dat moet je dan maar eens uitleggen. En Isaac is echt een cutie!</p>
+  </li>
+</ol>
