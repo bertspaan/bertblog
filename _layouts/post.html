@@ -2,7 +2,7 @@
 <article>
   <div id="content">
     <div id="photo">
-      <img src="{{ site.url }}/photos/{{ page.photo }}" />
+      <img src="{{ site.baseurl }}/photos/{{ page.photo }}" />
       <div id="coordinates">
       {% if page.exif_date %}
         {{ page.exif_date | date: "%d-%m-%Y %H:%M" }}
