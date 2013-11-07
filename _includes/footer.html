@@ -11,6 +11,18 @@
       } else if (key == 39) {
         // →
         window.location.href = '{{ site.baseurl }}{{ page.next.url }}';
+      }  else if (key == 76) {
+        // l
+        var photo = document.getElementById('photo');
+        var className = ' ' + photo.className + ' ';
+
+        if ( ~className.indexOf(' faded ') ) {
+          photo.className = className.replace(' faded ', ' ');
+        } else {
+          photo.className += ' faded';
+        } 
+        
+        
       }
     }
   </script>

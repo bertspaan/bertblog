@@ -1,10 +1,5 @@
-/*html {
-  margin: 0;
-  padding: 0; 
-}
-*/
 body {
-	margin: 30px;
+	margin: 5px;
   padding: 0; 
   
   background: none repeat scroll 0 0 black;
@@ -54,7 +49,27 @@ article {
 }
 
 #photo {
-  margin-top: 20px;
+  margin-top: 10px;
+}
+
+#photo img {
+  border: 2px solid #FFFFFF;
+  margin: 0 auto;
+  display: block;
+  z-index: 2;
+  position: relative;
+}
+
+.faded:before {
+  z-index: 1;
+  content: ' '; 
+  display: block;
+  position: fixed; 
+  background: rgba(0,0,0,0.8); 
+  width: 100%;
+  height: 100%;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: 0;
 }
 
 #coordinates {
@@ -65,25 +80,20 @@ article {
   padding: 0 46px;
 }
 
-article img {
-  border: 2px solid #FFFFFF;
-  margin: 0 auto;
-  display: block
-}
-
 h2, h3 {
   margin: 30px 0 0;
-  border-bottom: 1px solid #FFFFFF;
+  border-bottom: 1px solid white;
   font-family: 'Trebuchet MS','Lucida Grande',Verdana,Arial,Sans-Serif;
   font-weight: bold;
 }
 
 h3 {
   margin-top: 50px;
+  border-bottom: 1px solid #aaa;
 }
 
 h3, #comments {
-  opacity: 0.8;
+  color: #aaa;
   margin-right: 30px;
   margin-left: 30px;
 }
