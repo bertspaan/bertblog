@@ -9,15 +9,15 @@
   </head>
   <body>	
     <header>
-      <a rel="start" href="{{ site.baseurl }}/"><img alt="bertblog" src="{{ site.baseurl }}/bertblog.gif"></a>
+      <a rel="start" href="{{ site.baseurl }}"><img alt="bertblog" src="{{ site.baseurl }}/bertblog.gif"></a>
       
       <nav>
         {% if page.previous.url %} 
-          <a href="{{ page.previous.url }}">&laquo; previous</a>
+          <a href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; previous</a>
         {% endif %} 
         {% if page.previous.url and page.next.url %} | {% endif %} 
         {% if page.next.url %} 
-          <a href="{{ page.next.url }}" >next &raquo; </a> 
+          <a href="{{ site.baseurl }}{{ page.next.url }}" >next &raquo; </a> 
         {% endif %} 
       </nav>      
   	</header>
